@@ -1,2 +1,2 @@
-# Rust Markov-vis
+# Markov-vis
 (WIP) Making a Markov Chain visualization
